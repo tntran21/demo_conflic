@@ -1,1 +1,4 @@
+line 1 in master
 line 2 in master branch, this will to conflict
+line 2 in conflict branch
+On branch conflict
